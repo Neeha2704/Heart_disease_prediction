@@ -34,7 +34,7 @@ We utilize robust technologies to support this project, including:
 - Python 3, a powerful language for data analysis.
 - Libraries such as Pandas and NumPy for efficient data management and numerical analysis.
 - Scikit-learn, which offers a comprehensive toolkit for machine learning applications.
-- Jupyter Notebook or Google Colab, enhancing our interactive coding experience.
+- Google Colab, enhancing our interactive coding experience.
 
 ## 🧠 Model Development
 1. **Data Preprocessing**
